@@ -80,9 +80,6 @@ export default function HomePage() {
                     <svg className="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path fillRule="evenodd" d="M12.315 2c-4.04.02-5.462.164-6.527.584a5.87 5.87 0 00-2.14 1.096 5.87 5.87 0 00-1.096 2.14C2.164 6.853 2.02 8.274 2 12.315c-.02 4.04.124 5.462.544 6.527a5.87 5.87 0 001.096 2.14 5.87 5.87 0 002.14 1.096c1.065.42 2.487.564 6.527.584 4.04-.02 5.462-.164 6.527-.584a5.87 5.87 0 002.14-1.096 5.87 5.87 0 001.096-2.14c.42-1.065.564-2.487.584-6.527.02-4.04-.124-5.462-.544-6.527a5.87 5.87 0 00-1.096-2.14 5.87 5.87 0 00-2.14-1.096C17.777 2.164 16.355 2.02 12.315 2zM12 7.23a4.77 4.77 0 100 9.54 4.77 4.77 0 000-9.54zm0 7.82a3.05 3.05 0 110-6.1 3.05 3.05 0 010 6.1zM16.95 6.3a1.18 1.18 0 100 2.36 1.18 1.18 0 000-2.36z" clipRule="evenodd" /></svg>
                     <span>Instagram</span>
                 </a>
-                <p className="w-full text-center text-sm text-slate-500 dark:text-slate-400 mt-4">
-                    如果有公車迷想建置類似的網站，歡迎點擊 Linktree 聯繫
-                </p>
             </div>
 
             <div className="p-6 bg-white dark:bg-slate-800 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-700">
